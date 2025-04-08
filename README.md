@@ -1,2 +1,8 @@
 # to-do
-Vanilla JS &amp; React로 만드는 To-do 
+Vanilla JS 와 React로 만드는 To-do 앱을 만들어보는 연습 프로젝트 입니다.
+
+# 목표
+- JS 기초 문법 복습
+- React 상태관리 및 컴포넌트 연습
+- 동일한 기능을 다른방식으로 구현하면서 비교 학습
+  
